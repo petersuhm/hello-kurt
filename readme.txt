@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 === Hello Kurt ===
 Contributors: andrezrv
 Tags: hello, kurt, nirvana, dolly, admin, random
@@ -52,4 +51,3 @@ This is a totally rip off from Matt Mullenweg's [Hello Dolly plugin](http://word
 
 = 1.0 =
 First public release!
->>>>>>> 512a909726b7071f8438d75f4ed039c92869e0b3
