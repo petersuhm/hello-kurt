@@ -11,13 +11,13 @@
  * @author    Andrés Villarreal <andrezrv@gmail.com>
  * @license   GPL-2.0
  * @link      http://github.com/andrezrv/hello-kurt
- * @copyright 2013-2014 Andrés Villarreal
+ * @copyright 2013-2016 Andrés Villarreal
  *
  * @wordpress-plugin
  * Plugin Name: Hello Kurt
  * Plugin URI: http://wordpress.org/extend/plugins/hello-kurt/
  * Description: A plugin for all those nineties' lovers who just don't feel to much identified by <a href="http://wordpress.org/plugins/hello-dolly/">Hello Dolly</a>. When activated, you will randomly see a lyric from <cite>Smells Like Teen Spirit</cite> in the upper right of your admin screen on every page.
- * Author: Andr&eacute;s Villarreal, AuSoft
+ * Author: Andr&eacute;s Villarreal
  * Author URI: http://aufieroinformatica.com/wordpress/
  * Version: 1.1
  */
