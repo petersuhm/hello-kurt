@@ -26,4 +26,4 @@ require( dirname( __FILE__ ) . '/hello-kurt.class.php' );
 // Load Hello Kurt Loader class.
 require( dirname( __FILE__ ) . '/hello-kurt-loader.class.php' );
 // Load Hello Kurt.
-new Hello_Kurt_Loader;
+new Hello_Kurt_Loader
